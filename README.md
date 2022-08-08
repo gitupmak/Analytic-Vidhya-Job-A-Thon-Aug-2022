@@ -1,5 +1,6 @@
 # Analytic-Vidhya-Job-A-Thon-Aug-2022
 
+Problem Statement:
 Most organizations today rely on email campaigns for effective communication with users. Email communication is one of the popular ways to pitch products to users and build trustworthy relationships with them.
 Email campaigns contain different types of CTA (Call To Action). The ultimate goal of email campaigns is to maximize the Click Through Rate (CTR).
 
@@ -7,11 +8,11 @@ CTR is a measure of success for email campaigns. The higher the click rate, the 
 
 CTR =   No. of users who clicked on at least one of the CTA / No. of emails delivered
 
+Objective:
 We have to build a machine learning-based approach to predict the CTR of an email campaign.
 
-CTR depends on multiple factors like design, content, personalization, etc.
 
-The training set consist of following columns:
+CTR depends on multiple factors like design, content, personalization, etc. The training set consist of following columns:
 
 Variable - Description
 
@@ -59,4 +60,4 @@ target_audience - Cluster label of the target audience
 
 click_rate (Target Variable) - Click rate of an email campaign
 
-The Code file consist of step by step solution to the given problem.
+*** The Code file consist of step by step solution to the given problem. ***
